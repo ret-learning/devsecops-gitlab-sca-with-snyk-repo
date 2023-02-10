@@ -1,0 +1,5 @@
+Steps to integrate Snyk using .gitlab-ci.yml file:
+
+1) Add Snyk Plugin to Pom.xml
+2) Define Snyk Token as an environment Variable on the runner machine
+3) Add code changes to .gitlab-ci.yml file
